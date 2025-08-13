@@ -99,4 +99,12 @@ Tools & Technologies Used
 
 
 ---
+#output
+![Image](https://github.com/user-attachments/assets/3e3ee12c-296a-47d5-aa85-822f8b477249)
+
+![Image](https://github.com/user-attachments/assets/1358dda1-b7a1-40d2-954b-5b2de80011c2)
+
+![Image](https://github.com/user-attachments/assets/5ee8590d-9307-4de0-8004-41c8d12cc7f6)
+
+![Image](https://github.com/user-attachments/assets/ec134782-b893-48ee-82ef-99ec3ad86894)
 
